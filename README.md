@@ -198,5 +198,5 @@ Configured the VM's network interface to use the specific DNS servers allowed in
 
 ## About This Project
 
-**Role:** Cloud Security Engineer
-**Skills Demonstrated:** Azure Networking, Infrastructure Security, Firewalls, Routing, Compliance.
+- **Role:** `Cloud Security Engineer`
+- **Skills Demonstrated:** `Azure Networking, Infrastructure Security, Firewalls, Routing, Compliance.`
