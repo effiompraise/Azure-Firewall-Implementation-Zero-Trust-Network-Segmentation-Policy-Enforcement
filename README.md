@@ -35,7 +35,7 @@ The project follows Microsoft's cloud security best practices and demonstrates p
 ## Architecture Overview
 
 ### Deployment Architecture
-![Architecture Diagram]
+```mermaid
 graph TD
     %% Nodes
     Internet((Internet))
@@ -73,6 +73,7 @@ graph TD
     style VM fill:#50e6ff,stroke:#333,stroke-width:2px
     style RT fill:#ffca3a,stroke:#333,stroke-width:2px
     style Internet fill:#f2f2f2,stroke:#333,stroke-dasharray: 5 5
+
 
 The architecture implements a hub-and-spoke network topology with centralized security:
 
